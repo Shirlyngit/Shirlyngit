@@ -1,6 +1,6 @@
 Hi, I’m Shirlyne ! 
 
-- With a strong background in Finance and Project Management, I am commited to continuous learning of Data tools and Machine Learning Algorithms. I’m looking to collaborate on Machine Learning and Fintech product development projects
+- With a strong background in Finance and Project Management, I am commited to continuous learning of Data tools and Machine Learning Algorithms. I’m looking to collaborate on Machine Learning and Product development projects
 
  I’m currently learning Machine Learning Algorithms 
 
