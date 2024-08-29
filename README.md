@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Shirlyngit
-- 👀 I’m interested in Data Analytics applied in the Finance world
-- 🌱 I’m currently learning Machine Learning Algorithms 
-- 💞️ I’m looking to collaborate on Machine Learning and Fintech product development projects
-- 📫 How to reach me via my email: shirlyneodhiambo@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I do alot of videography and fashion influencing during my free time!
+Hi, I’m Shirlyne ! 
+
+- With a strong background in Finance and Project Management, I am commited to continuous learning of Data tools and Machine Learning Algorithms. I’m looking to collaborate on Machine Learning and Fintech product development projects
+
+ I’m currently learning Machine Learning Algorithms 
+
+⚡ Fun fact: I do alot of videography and fashion influencing during my free time!
 - Check my instagram to see more of my videography and fashion projects : @bombshirrr
 
 <!---
