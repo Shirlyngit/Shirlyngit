@@ -1,6 +1,6 @@
 Hi, I’m Shirlyne ! 
 
-With a strong background in Finance, I am commited to continuous learning of Data and Machine Learning Algorithms. I’m looking to collaborate on Machine Learning and LLM projects.
+With a strong background in Machine Learning and Finance, I am commited to continuous learning of Data Science and AI Engineering. I’m looking to collaborate on AI Business Production projects, incorporating Machine Learning techniques. 
 
 <!---
 Shirlyngit/Shirlyngit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
