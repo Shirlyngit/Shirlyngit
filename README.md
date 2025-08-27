@@ -1,6 +1,6 @@
 Hi, I’m Shirlyne ! 
 
-With a strong background in Machine Learning and Finance, I am commited to continuous learning of Data Science and AI Engineering. I’m looking to collaborate on AI Business Production projects, incorporating Machine Learning techniques. 
+I'm a Machine Learning Engineer and MLOps Specialist. 
 
 <!---
 Shirlyngit/Shirlyngit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
